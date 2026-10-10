@@ -1,5 +1,5 @@
 // const ENQUIRY_API = "http://localhost:8080/api/customer-enquiries";
-const ENQUIRY_API = "https://libmanagee.vercel.app/api/customer-enquiries";
+const ENQUIRY_API = "https://seat-manager-backend-production-bb04.up.railway.app/api/customer-enquiries";
 
 document.addEventListener("DOMContentLoaded", function () {
   // =========================================================
